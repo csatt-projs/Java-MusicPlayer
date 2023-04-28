@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author satte
+ *
+ */
+module JavaMusicPlayer {
+}
